@@ -27,7 +27,7 @@
     "babel-eslint": "^10.0.1",
     "ensure-node-env": "^1.0.8",
     "eslint": "^5.15.3",
-    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-airbnb": "^18.0.0",
     "eslint-config-skyscanner": "^4.0.0",
     "eslint-plugin-backpack": "^0.2.3",
     "eslint-plugin-import": "^2.2.0",
